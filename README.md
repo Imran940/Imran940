@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imran Shaikh
+Hi there, Imran Shaikh Here
 ====================================================================================================================================
 
 Senior Web Developer
@@ -10,15 +10,9 @@ I have been working in web development for 3 years using modern technologies lik
 * 🖥️  See my portfolio at [Here ✌️](http://portfolio-six-gamma-16.vercel.app/)
 * ✉️  You can contact me at [immoshaikh91@gmail.com](mailto:immoshaikh91@gmail.com)
 * 🚀  I'm currently working on [School of accelerated learning eductech private limited](http://www.soal.io/)
-* 🧠  I'm learning Problem solving skills
-* 🤝  I'm open to collaborating on open source projects
+* 🧠  I'm learning Problem-solving skills
+* 🤝  I'm open to collaborating on open-source projects
 
-### Skills
-
-
-<p align="left">
-[ICON](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [ICON](https://git-scm.com/) [ICON](https://www.typescriptlang.org/) [ICON](https://react.dev/) [ICON](https://nextjs.org/docs) [ICON](https://jquery.com/) [ICON](https://www.w3.org/TR/CSS/#css) [ICON](https://tailwindcss.com/) [ICON](https://mui.com/) [ICON](https://redux.js.org/) [ICON](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [ICON](https://nodejs.org/en) [ICON](https://expressjs.com/) [ICON](https://graphql.org/) [ICON](https://www.mongodb.com/) [ICON](https://firebase.google.com/) [ICON](https://appwrite.io/) [ICON](https://www.heroku.com/)
-</p>
 
 
 ### Socials
