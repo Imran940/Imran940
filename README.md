@@ -9,7 +9,7 @@ I have been working in web development for 3 years using modern technologies lik
 * 🌍  I'm based in Mumbai, Maharashtra India
 * 🖥️  See my portfolio at [Here ✌️](http://portfolio-six-gamma-16.vercel.app/)
 * ✉️  You can contact me at [immoshaikh91@gmail.com](mailto:immoshaikh91@gmail.com)
-* 🚀  I'm currently working on [School of accelerated learning eductech private limited](http://www.soal.io/)
+* 🚀  I'm currently working on [Regenesys](https://www.regenesys.net/)
 * 🧠  I'm learning Problem-solving skills
 * 🤝  I'm open to collaborating on open-source projects
 
